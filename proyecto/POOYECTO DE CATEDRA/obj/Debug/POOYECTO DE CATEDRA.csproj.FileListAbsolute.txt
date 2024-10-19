@@ -1,0 +1,48 @@
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe.config
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.AssemblyReference.cache
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Form1.resources
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Properties.Resources.resources
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.GenerateResource.cache
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\eliza\source\repos\POOYECTO DE CATEDRA\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe.config
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.AssemblyReference.cache
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Form1.resources
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Properties.Resources.resources
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.GenerateResource.cache
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.CoreCompileInputs.cache
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\Hazel\Source\Repos\hazelnut200\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe.config
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.AssemblyReference.cache
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Form1.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Gerente_Dueño.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Pagos.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Properties.Resources.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Realizar_Pedido.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Ventana_Empleados.resources
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.GenerateResource.cache
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\eliza\source\repos\pupuseria\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe.config
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\bin\Debug\POOYECTO DE CATEDRA.pdb
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.AssemblyReference.cache
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Form1.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Gerente_Dueño.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Realizar_Pedido.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Pagos.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Properties.Resources.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO_DE_CATEDRA.Ventana_Empleados.resources
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.GenerateResource.cache
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.csproj.CoreCompileInputs.cache
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.exe
+C:\Users\Hazel\Documents\POO104\teorico\proyecto\POOYECTO DE CATEDRA\obj\Debug\POOYECTO DE CATEDRA.pdb
